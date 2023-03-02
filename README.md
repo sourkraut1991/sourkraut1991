@@ -2,7 +2,7 @@
 
 **`iOS Developer fueled by coffee`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
+
 
 
 <div style="display:flex;justify-content:center;">
