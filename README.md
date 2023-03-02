@@ -1,4 +1,29 @@
-### Hi there 👋
+# 👋 Hi, I'm Ed!
+
+**`iOS Developer fueled by coffee`**
+
+### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
+
+
+<div style="display:flex;justify-content:center;">
+[![Twitter Follow](https://img.shields.io/twitter/follow/EdKraus31?logo=twitter&style=for-the-badge)](https://twitter.com/EdKraus31)
+</div>
+
+---
+
+### About
+- 💻 I started teaching myself iOS Development in 2022.
+- 🖌️ I love learning SwiftUI and hope to get a job as an iOS Developer
+- 👀 I'm currenlty searching for my first iOS job, but also working on a project.
+- 🌱 I've learned from reputable personnel like Chris Ching, Sean Allen, and Paul Hudson.
+
+
+ ### Skills
+- 🎨 SwiftUI
+- 💽 JSON
+- 🔥 Firebase
+- ❇️ WidgetKit
+
 
 <!--
 **sourkraut1991/sourkraut1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
